@@ -31,4 +31,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eyc5nkfjkb5wvqahmuneb5srwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eyc5nkfjkb5wvqahmuneb5srwq&redirect=true)
 
 ### 🐍 A Snake Game of my GitHub Contributions
-![Snake Game](https://github.com/lokey0905/lokey0905/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokey0905/lokey0905/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokey0905/lokey0905/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lokey0905/lokey0905/output/github-contribution-grid-snake.svg">
+</picture>
