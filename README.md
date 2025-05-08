@@ -25,7 +25,8 @@
 ![Static Badge](https://img.shields.io/badge/RT--AC5300-00529c?style=flat-square&logo=asus)
 ![Static Badge](https://img.shields.io/badge/RT--AX5400-00529c?style=flat-square&logo=asus)
 ![Static Badge](https://img.shields.io/badge/Synology%20DiskStation%20DS720%2B-000000?style=flat-square&logo=Synology&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/CyberPower%20CP1000PFCLCDa-d50032)
+![Static Badge](https://img.shields.io/badge/CyberPower%20CP1000PFCLCDa-d50032?style=flat-square)
+![Static Badge](https://img.shields.io/badge/APC%20BV1000--TW-cd1e4b?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Google%20Nest%20Mini-4285f4?style=flat-square&logo=Google&logoColor=ffffff)
 
 ### Now playing🎶
