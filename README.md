@@ -12,7 +12,7 @@
 
 ### Headphones🎧 / Wearable⌚
 
-![Static Badge](https://img.shields.io/badge/SAMSUNG%20Galaxy%20Buds%20Pro-1428A0?style=flat-square&logo=samsung)
+![Static Badge](https://img.shields.io/badge/SAMSUNG%20Galaxy%20Buds%203%20Pro-1428A0?style=flat-square&logo=samsung)
 ![Static Badge](https://img.shields.io/badge/SONY%20WH--1000XM4-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/COTSUBU%20for%20ASMR%20%E5%91%A8%E9%98%B2%E3%83%91%E3%83%88%E3%83%A9%20Patra%20Edition-ffffff?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/%E5%91%A8%E9%98%B2%E3%83%91%E3%83%88%E3%83%A9%20x%20ag%20COTSUBU%20for%20ASMR%20Patra%20Edition%20%E2%88%92BLACK%20Ver.-ffffff?style=flat-square)
