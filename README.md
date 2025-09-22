@@ -6,7 +6,7 @@
 
 ![Static Badge](https://img.shields.io/badge/SAMSUNG%20Galaxy%20S23%2B-1428A0?style=flat-square&logo=samsung)
 ![Static Badge](https://img.shields.io/badge/SAMSUNG%20Galaxy%20S23%20Ultra-1428A0?style=flat-square&logo=samsung)
-![Static Badge](https://img.shields.io/badge/SAMSUNG%20Galaxy%20Tab%20S7%2B-1428A0?style=flat-square&logo=samsung)
+![Static Badge](https://img.shields.io/badge/SAMSUNG%20Galaxy%20Tab%20S10%2B-1428A0?style=flat-square&logo=samsung)
 ![Static Badge](https://img.shields.io/badge/Xiaomi%2011%20Lite%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Meta%20Quest%203-0081FB?style=flat-square&logo=Meta&logoColor=ffffff)
 
