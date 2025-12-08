@@ -30,6 +30,9 @@
 ![Static Badge](https://img.shields.io/badge/APC%20BV1000--TW-cd1e4b?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Google%20Nest%20Mini-4285f4?style=flat-square&logo=Google&logoColor=ffffff)
 
+### View counter👀
+![](https://komarev.com/ghpvc/?username=lokey0905&style=for-the-badge)
+
 ### Now playing🎶
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eyc5nkfjkb5wvqahmuneb5srwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eyc5nkfjkb5wvqahmuneb5srwq&redirect=true)
 
