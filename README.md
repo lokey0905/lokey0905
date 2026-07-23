@@ -1,6 +1,6 @@
 # Hi I'm lokey👋
 
-![Lokey's GitHub stats](./profile/stats.svg)
+[![Lokey's GitHub stats](https://github-stats-extended.vercel.app/api?username=lokey0905&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Languages](./profile/top-langs.svg)
 
