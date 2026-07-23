@@ -1,6 +1,8 @@
 # Hi I'm lokey👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokey0905&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Lokey's GitHub stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ### Android Devices📱
 
